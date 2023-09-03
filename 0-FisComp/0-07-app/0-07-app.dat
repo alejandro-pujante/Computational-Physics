@@ -1,0 +1,8 @@
+ componentes de los vectores originales
+ primer vector a =   1.50000000       2.00000000       3.00000000    
+ segundo vector b =   1.70000005       2.00000000       4.00000000    
+
+  el producto escalar a * b = 18.5500
+  el producto vectorial a x b =  2.0000
+  el producto vectorial a x b = -0.9000
+  el producto vectorial a x b = -0.4000
